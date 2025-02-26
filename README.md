@@ -1,21 +1,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.tenor.com/z-a5U5rPewwAAAAM/pokedance-hanaoka.gif" width="150" />
+      <img src="https://media.tenor.com/Bk-Kb5juWGoAAAAi/dance-anime.gif" width="150" />
     </td>
     <td>
       <h1>💫 About Me:</h1>
       <p>A Computer Science Student.</p>
       <h1>💻 I'm Interested In:</h1>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"/>
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white"/>
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
