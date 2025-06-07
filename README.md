@@ -44,18 +44,8 @@
 
 ---
 
-### 🌱 Fun Facts
-
-- 🧠 I love bridging logic and creativity — from solving bugs to animating cool visuals.
-- 🎧 Big fan of lo-fi beats while coding.
-- 🕹️ I sometimes lose track of time prototyping mini-games in Godot or sketching UI ideas in Illustrator.
-- 🌍 Always curious, always learning.
-
----
-
 ### 💬 Let's Connect!
 
 <div align="center">
   <a href="https://github.com/TedjaSatedji"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tedjasatedji/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
