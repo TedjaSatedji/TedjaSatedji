@@ -5,8 +5,7 @@
 
 <div align="center">
   <p>
-    🚀 Computer Science student on a mission to turn ideas into interactive experiences.<br/>
-    🎮 Currently tinkering with game dev, software engineering, and a dash of creative coding magic.
+    im a chill guy who loves to code, sometimes
   </p>
 </div>
 
